@@ -1,0 +1,54 @@
+# standard
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.DS_Store
+.env
+.venv
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+*.swo
+*.swn
+*.sublime-*
+
+# Python specific
+.env/
+.venv/
+.mypy_cache/
+.pytest_cache/
+
+# React, Next and Node.js
+node_modules/
+dist/
+.next/
+build/
+out/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerc-debug.log*
+lerc-error.log*
+lerc-debug.log*
+lerc-error.log*
+.pnpm-store/
+.cache/
+
